@@ -6,8 +6,8 @@ import datetime as dt
 
 
 
-email = os.environ.get("my_email")
-password = os.environ.get("password")
+email = os.environ.get("MY_EMAIL")
+password = os.environ.get("PASSWORD")
 ##################### Extra Hard Starting Project ######################
 
 # 1. Update the birthdays.csv
